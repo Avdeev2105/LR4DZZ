@@ -9,5 +9,54 @@
 Конец.
 
 Блок схема:
+<img width="482" height="567" alt="image" src="https://github.com/user-attachments/assets/ae6545ef-012b-4c5d-b17b-c127a18e1810" />
 
+Код на языке с: 
+
+#define _CRT_SECURE_NO_WARNINGS
+
+#include <stdio.h>
+
+#include<locale.h>
+
+int main(void) {
+
+    setlocale(LC_ALL, "RUS");
+    
+    int a, b;
+    
+    printf("Введите номер рабочего места Анны (A): ");
+    
+    if (scanf("%d", &a) != 1) {
+    
+        printf("Ошибка: введено не число.\n");
+        
+        return 1;
+        
+    }
+    
+    printf("Введите номер рабочего места Бориса (B): ");
+    
+    if (scanf("%d", &b) != 1) {
+    
+        printf("Ошибка: введено не число.\n");
+        
+        return 1;
+        
+    }
+    
+    if ((a % 2) != (b % 2)) {
+    
+        printf("Ровно один из программистов чётный — кофе готовится!\n");
+        
+    }
+    
+    else {
+    
+        printf("Оба чётные или оба нечётные — кофе не готовится.\n");
+        
+    }
+
+    return 0;
+}
 
