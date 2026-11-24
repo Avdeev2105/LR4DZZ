@@ -20,14 +20,25 @@
 #include<locale.h>
 
 int main() {
+
     int a, b;
+    
     int condition;
+    
     printf("***** КОФЕ-МАШИНА *****\n");
+    
     printf("Введите номер рабочего места Анны : ");
+    
     scanf("%d", &a);
+    
     printf("Введите номер рабочего места Бориса : ");
+    
     scanf("%d", &b);
+    
     condition = (a % 2 != b % 2);
+    
     printf("%s\n", condition ? "Кофе готовится" : "Кофе не готовится");
-    return 0;
+    
+    return 0
+    
 }
