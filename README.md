@@ -10,7 +10,8 @@
 
 Блок схема:
 
-<img width="522" height="732" alt="image" src="https://github.com/user-attachments/assets/99214d21-56bf-46fa-b920-6fae6b056dd7" />
+<img width="522" height="732" alt="image" src="https://github.com/user-attachments/assets/79d30cd6-c30b-44d2-b6e3-96c760af3f7a" />
+
 
 
 
