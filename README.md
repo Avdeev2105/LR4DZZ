@@ -10,7 +10,7 @@
 
 Блок схема:
 
-https://github.com/Avdeev2105/LR4DZZ/blob/master/LR4DZZ/ггнгн.drawio.png
+LR4DZZ/ггнгн.drawio.png
 
 
 Код на языке с: 
