@@ -9,7 +9,7 @@
 Конец.
 
 Блок схема:
-<img width="482" height="567" alt="image" src="https://github.com/user-attachments/assets/ae6545ef-012b-4c5d-b17b-c127a18e1810" />
+
 
 Код на языке с: 
 
