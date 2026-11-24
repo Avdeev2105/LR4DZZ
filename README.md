@@ -10,7 +10,8 @@
 
 Блок схема:
 
-LR4DZZ/ггнгн.drawio.png
+<img width="522" height="732" alt="image" src="https://github.com/user-attachments/assets/99214d21-56bf-46fa-b920-6fae6b056dd7" />
+
 
 
 Код на языке с: 
