@@ -17,23 +17,19 @@
 8) Конец.
 
 
-Блок схема:
+**Блок схема:**
 
 <img width="522" height="732" alt="image" src="https://github.com/user-attachments/assets/79d30cd6-c30b-44d2-b6e3-96c760af3f7a" />
 
 
 
 
-Код на языке с: 
+**Код на языке с: **
 
 #define _CRT_SECURE_NO_WARNINGS
-
 #include <stdio.h>
-
 #include<locale.h>
-
 int main() {
-
     int a, b;
     
     int condition;
