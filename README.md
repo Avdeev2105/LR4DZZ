@@ -26,13 +26,13 @@
 
 **Код на языке с: **
 
-#define _CRT_SECURE_NO_WARNINGS
+    #define _CRT_SECURE_NO_WARNINGS
 
-#include <stdio.h>
+    #include <stdio.h>
 
-#include<locale.h>
+    #include<locale.h>
 
-int main() {
+    int main() {
 
     int a, b;
     
