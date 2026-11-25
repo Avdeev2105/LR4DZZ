@@ -27,9 +27,13 @@
 **Код на языке с: **
 
 #define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
+
 #include<locale.h>
+
 int main() {
+
     int a, b;
     
     int condition;
