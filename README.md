@@ -19,7 +19,7 @@
 
 **Блок схема:**
 
-<img width="522" height="732" alt="image" src="https://github.com/user-attachments/assets/79d30cd6-c30b-44d2-b6e3-96c760af3f7a" />
+<img width="482" height="642" alt="image" src="https://github.com/user-attachments/assets/9f2b4c1a-dce1-445d-b277-8eb4a60a3c01" />
 
 
 
